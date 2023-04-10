@@ -1,0 +1,7 @@
+{
+  "name": "tryitfirst",
+  "private": true,
+  "dependencies": {
+    "sinatra": "^0.0.5"
+  }
+}
